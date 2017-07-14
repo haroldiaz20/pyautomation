@@ -1,0 +1,104 @@
+2017-06-23 10:09:04 -> Good ini : Driver ini correct!!
+2017-06-23 10:09:30 -> Good Event : OrderExec = 1
+2017-06-23 10:09:41 -> Good Event : OrderExec = 2
+2017-06-23 10:09:41 -> Bad Event Validate : OrderExec = 3
+2017-06-23 10:20:21 -> Good ini : Driver ini correct!!
+2017-06-23 10:20:31 -> Good Event : OrderExec = 1
+2017-06-23 10:20:42 -> Good Event : OrderExec = 2
+2017-06-23 10:20:42 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-06-23 10:22:55 -> Good ini : Driver ini correct!!
+2017-06-23 10:23:05 -> Good Event : OrderExec = 1
+2017-06-23 10:23:16 -> Good Event : OrderExec = 2
+2017-06-23 10:23:16 -> Validate Success Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-06-23 10:24:03 -> Good ini : Driver ini correct!!
+2017-06-23 10:24:14 -> Good Event : OrderExec = 1
+2017-06-23 10:24:25 -> Good Event : OrderExec = 2
+2017-06-23 10:24:25 -> Validate Success Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-06-23 10:38:43 -> Good ini : Driver ini correct!!
+2017-06-23 10:38:54 -> Good Event : OrderExec = 1
+2017-06-23 10:39:05 -> Good Event : OrderExec = 2
+2017-06-23 10:39:05 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-06-23 10:50:18 -> Good ini : Driver ini correct!!
+2017-06-23 10:50:26 -> Good Event : OrderExec = 1
+2017-06-23 10:50:27 -> Good Event : OrderExec = 2
+2017-06-23 10:52:44 -> Good Event : OrderExec = 3
+2017-06-23 10:52:56 -> Good Event : OrderExec = 1
+2017-06-23 10:53:06 -> Good Event : OrderExec = 2
+2017-06-23 10:53:17 -> Good Event : OrderExec = 3
+2017-06-23 10:53:29 -> Good Event : OrderExec = 1
+2017-06-23 10:53:40 -> Good Event : OrderExec = 2
+2017-06-23 10:53:51 -> Good Event : OrderExec = 3
+2017-06-23 10:53:52 -> Good Event : OrderExec = 4
+2017-06-23 10:54:05 -> Good Event : OrderExec = 5
+2017-06-23 10:54:16 -> Good Event : OrderExec = 6
+2017-06-23 10:54:17 -> Good Event : OrderExec = 7
+2017-06-23 10:54:28 -> Good Event : OrderExec = 8
+2017-06-23 10:54:39 -> Good Event : OrderExec = 9
+2017-06-23 16:28:10 -> Good ini : Driver ini correct!!
+2017-06-23 16:28:19 -> Good Event : OrderExec = 1
+2017-06-23 16:28:20 -> Good Event : OrderExec = 2
+2017-06-23 16:29:14 -> Good Event : OrderExec = 3
+2017-06-23 16:29:26 -> Good Event : OrderExec = 1
+2017-06-23 16:29:36 -> Good Event : OrderExec = 2
+2017-06-23 16:29:47 -> Good Event : OrderExec = 3
+2017-06-23 16:29:59 -> Good Event : OrderExec = 1
+2017-06-23 16:30:09 -> Good Event : OrderExec = 2
+2017-06-23 16:30:20 -> Good Event : OrderExec = 3
+2017-06-23 16:30:22 -> Good Event : OrderExec = 4
+2017-06-23 16:30:34 -> Good Event : OrderExec = 5
+2017-06-23 16:30:44 -> Good Event : OrderExec = 6
+2017-06-23 16:30:46 -> Good Event : OrderExec = 7
+2017-06-23 16:30:56 -> Good Event : OrderExec = 8
+2017-06-23 16:31:10 -> Good Event : OrderExec = 9
+2017-06-23 17:07:24 -> Good ini : Driver ini correct!!
+2017-06-23 17:07:29 -> Good Event : OrderExec = 1
+2017-06-23 17:07:31 -> Good Event : OrderExec = 2
+2017-06-23 17:09:26 -> Good Event : OrderExec = 3
+2017-06-23 17:09:38 -> Good Event : OrderExec = 1
+2017-06-23 17:09:49 -> Good Event : OrderExec = 2
+2017-06-23 17:09:59 -> Good Event : OrderExec = 3
+2017-06-23 17:10:12 -> Good Event : OrderExec = 1
+2017-06-23 17:10:22 -> Good Event : OrderExec = 2
+2017-06-23 17:10:33 -> Good Event : OrderExec = 3
+2017-06-23 17:10:35 -> Good Event : OrderExec = 4
+2017-06-23 17:10:47 -> Good Event : OrderExec = 5
+2017-06-23 17:10:57 -> Good Event : OrderExec = 6
+2017-06-23 17:10:59 -> Good Event : OrderExec = 7
+2017-06-23 17:11:12 -> Good Event : OrderExec = 8
+2017-06-23 17:11:23 -> Good Event : OrderExec = 9
+2017-07-04 10:25:06 -> Good ini : Driver ini correct!!
+2017-07-04 10:25:20 -> Good Event : OrderExec = 1
+2017-07-04 10:25:31 -> Good Event : OrderExec = 2
+2017-07-04 10:25:31 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-07-04 10:25:32 -> Exeption Event : OrderExec = 1 Message: NOT CLICK
+
+2017-07-04 10:25:42 -> Exeption Event : OrderExec = 2 Message: Element cannot be found
+
+2017-07-04 10:25:42 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-07-04 10:25:43 -> Exeption Event : OrderExec = 1 Message: NOT CLICK
+
+2017-07-04 10:25:53 -> Exeption Event : OrderExec = 2 Message: Element cannot be found
+
+2017-07-04 10:25:53 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-07-04 10:25:54 -> Exeption Event : OrderExec = 1 Message: NOT CLICK
+
+2017-07-04 10:26:04 -> Exeption Event : OrderExec = 2 Message: Element cannot be found
+
+2017-07-04 10:26:14 -> Exeption Event : OrderExec = 3 Message: Element cannot be found
+
+2017-07-04 10:26:26 -> Exeption Event : OrderExec = 1 Message: Element cannot be found
+
+2017-07-04 10:26:36 -> Exeption Event : OrderExec = 2 Message: Element cannot be found
+
+2017-07-04 10:26:46 -> Exeption Event : OrderExec = 3 Message: Element cannot be found
+
+2017-07-04 10:26:58 -> Exeption Event : OrderExec = 1 Message: Element cannot be found
+
+2017-07-04 10:27:08 -> Exeption Event : OrderExec = 2 Message: Element cannot be found
+
+2017-07-04 10:27:18 -> Exeption Event : OrderExec = 3 Message: Element cannot be found
+
+2017-07-04 11:53:00 -> Good ini : Driver ini correct!!
+2017-07-04 11:53:10 -> Good Event : OrderExec = 1
+2017-07-04 11:53:21 -> Good Event : OrderExec = 2
+2017-07-04 11:53:21 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.

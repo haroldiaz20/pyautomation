@@ -1,0 +1,18 @@
+2017-07-04 12:55:46 -> Good ini : Driver ini correct!!
+2017-07-04 12:55:57 -> Good Event : OrderExec = 1
+2017-07-04 12:56:08 -> Good Event : OrderExec = 2
+2017-07-04 12:56:08 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-07-04 16:20:28 -> Exception ini : <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+2017-07-04 16:21:37 -> Good ini : Driver ini correct!!
+2017-07-04 16:21:50 -> Good Event : OrderExec = 1
+2017-07-04 16:22:01 -> Good Event : OrderExec = 2
+2017-07-04 16:22:01 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
+2017-07-05 14:12:53 -> Exception ini : <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+2017-07-05 14:15:53 -> Good ini : Driver ini correct!!
+2017-07-05 14:16:06 -> Good Event : OrderExec = 1
+2017-07-05 14:16:17 -> Good Event : OrderExec = 2
+2017-07-05 14:16:27 -> Exeption Event : OrderExec = 3 Message: Element cannot be found
+2017-07-05 14:18:19 -> Good ini : Driver ini correct!!
+2017-07-05 14:18:29 -> Good Event : OrderExec = 1
+2017-07-05 14:18:40 -> Good Event : OrderExec = 2
+2017-07-05 14:18:40 -> Validate Success No Exists: OrderExec = 3 The Windows 8 operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions.
